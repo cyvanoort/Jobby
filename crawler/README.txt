@@ -1,0 +1,1 @@
+Dit is het readme bestand van project 5&6 hogeschool rotterdam
